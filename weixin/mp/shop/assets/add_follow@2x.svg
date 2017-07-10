@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>add_follow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.0048425,25.4394116 C19.4971547,25.4394116 16.6425527,23.0157101 16.6425527,20.0430671 C16.6425527,19.4274647 17.1397414,18.9305955 17.7550776,18.9305955 C18.3706267,18.9305955 18.8675492,19.4274646 18.8675492,20.0430671 C18.8675492,21.7896699 20.7230884,23.2144151 23.0000506,23.2144151 C25.2769595,23.2144151 27.1324987,21.794302 27.1324987,20.0430671 C27.1324987,19.4274647 27.6294211,18.9305955 28.2449703,18.9305955 C28.8602532,18.9305955 29.3574419,19.4274646 29.3574419,20.0430671 C29.3619675,23.01571 26.5123173,25.4394116 23.0048425,25.4394116 L23.0048425,25.4394116 Z" id="path-1"></path>
+        <filter x="-3.9%" y="-7.7%" width="107.9%" height="115.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.80986926   0 0 0 0 0.334511216   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M42.4061786,46.9727536 L37.3106423,46.9727536 C36.6736925,46.9727536 36.144995,47.4949324 36.144995,48.1390725 C36.144995,48.7877035 36.6668731,49.3053915 37.3106423,49.3053915 L42.4061786,49.3053915 L42.4061786,54.4009277 C42.4061786,55.0378775 42.9283573,55.566575 43.5724975,55.566575 C44.2211285,55.566575 44.7388165,55.0446969 44.7388165,54.4009277 L44.7388165,49.3053915 L49.8343527,49.3053915 C50.4713025,49.3053915 51,48.7832127 51,48.1390725 C51,47.4904415 50.4781219,46.9727536 49.8343527,46.9727536 L44.7388165,46.9727536 L44.7388165,41.8772174 C44.7388165,41.2402675 44.2166377,40.71157 43.5724975,40.71157 C42.9238665,40.71157 42.4061786,41.2334481 42.4061786,41.8772174 L42.4061786,46.9727536 Z" id="path-3"></path>
+        <filter x="-3.4%" y="-3.4%" width="106.7%" height="106.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.80986926   0 0 0 0 0.334511216   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M39.8304551,39.5665807 C39.3625962,39.5665807 39.0117188,39.3166053 38.7778234,38.8165811 C36.0877194,34.9415587 32.2280703,32.0665845 27.6666667,30.941585 C27.6666667,30.941585 26.4971218,30.5665852 26.4971218,29.4415858 C26.4971218,28.3165864 27.6666667,27.9415865 27.6666667,27.9415865 C31.7602797,26.0665874 34.6842106,21.5665897 34.6842106,16.4416166 C34.6842106,9.56659555 29.4210527,3.94159825 22.9883499,3.94159825 C16.5555785,3.94159825 11.2924205,9.56659555 11.2924205,16.4416166 C11.2924205,21.5665897 14.21642,25.9415631 18.3099644,27.9415865 C18.3099644,27.9415865 19.7134732,28.3165864 19.7134732,29.4415858 C19.7134732,30.5665852 18.3099644,30.941585 18.3099644,30.941585 C5.32750826,33.4415594 3.33922699,49.0666007 3.33922699,49.0666007 L28.8362802,49.0666007 C28.8362802,49.0666007 30.0058937,49.0666007 30.0058937,50.3165512 C30.0058937,51.566575 28.8362802,51.566575 28.8362802,51.566575 L3.10526316,51.566575 C1,51.566575 1,49.0666007 1,49.0666007 L1,48.4415522 C2.05263158,39.5665807 7.78364864,32.1916089 15.5029469,29.1916103 C11.5263159,26.5666116 8.9532621,21.9415895 8.9532621,16.5665677 C8.9532621,8.31657172 15.2690516,1.56657502 22.9883499,1.56657502 C30.7076481,1.56657502 37.0234377,8.31657172 37.0234377,16.5665677 C37.0234377,21.9415895 34.4503154,26.5666116 30.4736843,29.1916103 C39.9473687,33.9415836 41,38.3165569 41,38.3165569 C41,38.9416056 40.5322095,39.5665807 39.8304551,39.5665807" id="path-5"></path>
+        <filter x="-1.2%" y="-1.0%" width="102.5%" height="102.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.80986926   0 0 0 0 0.334511216   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add_follow">
+            <g id="Group-9" transform="translate(16.000000, 6.000000)">
+                <g id="Group-6" transform="translate(6.000000, 0.000000)">
+                    <g id="Group-8">
+                        <g id="Shape">
+                            <use fill="#FF7819" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Combined-Shape">
+                            <use fill="#FF7819" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Path">
+                            <use fill="#FF7819" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                </g>
+                <text id="加关注" font-family=".PingFangSC-Regular, .PingFang SC" font-size="20" font-weight="normal" line-spacing="20" fill="#FF7819">
+                    <tspan x="1.43" y="81">加关注</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

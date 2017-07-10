@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>shop_loaction</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24.4387838,39.8487274 C24.3112247,39.9494348 24.1574848,40 24.0037064,40 C23.8499281,40 23.6961882,39.9494348 23.5686291,39.8487274 C23.0962989,39.4769675 12,29.2073113 12,20.0012161 C12,13.383482 17.3851636,8 24.003668,8 C30.6221724,8 36.007336,13.383482 36.007336,20.0012161 C36.0074129,29.2073113 24.9111524,39.4769675 24.4387838,39.8487274 L24.4387838,39.8487274 Z M24.0037449,14.3955164 C20.9101476,14.3955164 18.4023689,16.903973 18.4023689,19.998063 C18.4023689,23.0923452 20.9101476,25.6006095 24.0037449,25.6006095 C27.0973421,25.6006095 29.6051209,23.0921913 29.6051209,19.998063 C29.6050824,16.903973 27.0971884,14.3955164 24.0037449,14.3955164 L24.0037449,14.3955164 Z" id="path-1"></path>
+        <filter x="-2.1%" y="-1.6%" width="104.2%" height="106.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.4 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shop_loaction">
+            <g>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill-opacity="0.600000024" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill-opacity="0.100000001" fill="#000000" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
