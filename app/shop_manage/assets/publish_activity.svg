@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="49px" viewBox="0 0 45 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>publish_activity</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="930" width="375" height="49"></rect>
+        <filter x="-0.1%" y="-0.5%" width="100.1%" height="101.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.698039216   0 0 0 0 0.698039216   0 0 0 0 0.698039216  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="shop_manage_0723" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04_商品管理-" transform="translate(-46.000000, -930.000000)">
+            <g id="Bar-Copy">
+                <use fill-opacity="0.9" fill="#FAFAFA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <path d="M76.8402154,965 L62.8007181,965 C61.2567325,965 60,963.743268 60,962.199282 L60,948.123878 C60,946.579892 61.2926391,945 62.8725314,945 L70.7360862,945 L70.7360862,946.436266 L62.8366248,946.436266 C62.0466786,946.436266 61.4003591,947.082585 61.4003591,947.872531 L61.4003591,962.163375 C61.4003591,962.953321 62.0466786,963.563734 62.8007181,963.563734 L77.1274686,963.527828 C77.9174147,963.527828 78.5637343,962.881508 78.5637343,962.091562 L78.5637343,954.263914 L80,954.263914 L80,962.127469 C80,963.671454 78.3842011,965 76.8402154,965 L76.8402154,965 L76.8402154,965 Z M79.2818671,951.427289 C78.8868941,951.427289 78.5637343,951.104129 78.5637343,950.709156 L78.5278276,947.298025 L67.6481149,957.639138 C67.3608618,957.926391 66.8940754,957.926391 66.6068223,957.639138 C66.3195691,957.351885 66.3195691,956.921005 66.6068223,956.669659 L77.3788151,946.400359 L74.2549372,946.436266 C73.8599641,946.436266 73.5368043,946.113106 73.5368043,945.718133 C73.5368043,945.32316 73.8599641,945 74.2549372,945 L79.2459605,945 C79.6409336,945 79.9640934,945.32316 79.9640934,945.682226 L79.9640934,950.709156 C80,951.104129 79.6768402,951.427289 79.2818671,951.427289 L79.2818671,951.427289 L79.2818671,951.427289 Z" id="publish_activity" fill="#FF7819"></path>
+            <text id="发布活动" font-family=".PingFangSC-Regular, .PingFang SC" font-size="17" font-weight="normal" letter-spacing="-0.409999996" fill="#FF7819">
+                <tspan x="90" y="962">发布活动</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
