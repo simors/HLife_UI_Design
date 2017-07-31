@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="30px" viewBox="0 0 31 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="selected">
+            <g>
+                <rect id="Rectangle-6" fill="#FF7819" x="0" y="0" width="30" height="30" rx="15"></rect>
+                <path d="M23.6628034,8.33690939 C23.2135908,7.88769687 22.4852002,7.88769687 22.0359876,8.33690939 L12.8782558,17.8469648 L7.9641081,12.9324341 C7.51489555,12.4832215 6.78612194,12.4832215 6.33690939,12.9324341 C5.88769687,13.3816466 5.88769687,14.1104202 6.33690939,14.5596328 L12.0790175,20.3013579 C12.3038152,20.5265386 12.5986947,20.638746 12.8935742,20.638363 C13.1884538,20.638746 13.4833332,20.5265386 13.7085139,20.3013579 L23.6628034,9.9641081 C24.1123989,9.51489555 24.1123989,8.78612194 23.6628034,8.33690939 Z" id="Path" fill="#FFFFFF"></path>
+            </g>
+        </g>
+        <g id="shop" transform="translate(-309.000000, -563.000000)" stroke="#979797">
+            <rect id="Rectangle-7" x="32.5" y="258.5" width="390" height="358"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="close">
+            <g transform="translate(13.000000, 13.000000)">
+                <ellipse id="Oval" fill-opacity="0.05" fill="#000000" transform="translate(10.000000, 10.000000) rotate(-270.000000) translate(-10.000000, -10.000000) " cx="10" cy="10" rx="10" ry="10"></ellipse>
+                <g id="Group-4" transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) translate(3.000000, 3.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M7,1.03028697e-13 L7,14" id="Line" transform="translate(7.000000, 7.000000) rotate(-360.000000) translate(-7.000000, -7.000000) "></path>
+                    <path d="M1.04805054e-13,7 L14,7" id="Line" transform="translate(7.000000, 7.000000) rotate(-360.000000) translate(-7.000000, -7.000000) "></path>
+                </g>
+            </g>
+        </g>
+        <g id="shop" transform="translate(-204.000000, -383.000000)" stroke="#979797">
+            <rect id="Rectangle-7" x="32.5" y="258.5" width="390" height="358"></rect>
+        </g>
+    </g>
+</svg>
