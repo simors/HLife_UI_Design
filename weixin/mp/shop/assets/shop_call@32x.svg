@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>shop_call</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M38.2816353,31.690513 C39.4622407,33.1071711 38.9243409,35.2501053 38.5168659,35.6664511 C38.1093224,36.0892359 38.1387776,36.2921343 36.1852472,38.0646864 C34.2191127,39.851795 30.2867752,38.6297468 28.5013107,38.0646864 C26.7157434,37.4975369 21.8634104,34.3942262 17.376459,30.129319 C12.8307683,25.8078989 10.4803463,20.4235913 9.51815454,17.4980736 C8.55815484,14.5641304 9.15900661,13.5052502 9.51815454,12.5132951 C9.87743947,11.5214426 10.5347699,10.6801885 12.4821353,9.56256917 C14.4251166,8.44303189 15.1287876,9.29486937 15.6287382,9.56256917 C16.1267023,9.82643295 18.3027907,11.7306773 19.0569808,13.5304242 C19.8069238,15.330034 19.4497967,16.4872466 18.8699745,17.033435 C18.2924471,17.5796235 17.8806909,18.0798481 17.4017014,18.4187884 C16.9227804,18.7515636 16.8219819,19.2349371 16.8933937,20.1682216 C16.9606611,21.103664 20.3363296,24.7532315 21.0021199,25.4271048 C21.6659578,26.1029304 26.0603652,30.6483128 27.5853567,30.9977336 C29.1125745,31.3409209 29.6649965,30.6775625 29.8309389,30.4976118 C29.9969497,30.3197503 30.5976988,29.501478 31.2782851,28.9322734 C31.9631185,28.3671789 33.790608,28.5221269 34.2421288,28.8402088 C34.6937866,29.1584277 37.1010641,30.2674844 38.2816353,31.690513 Z" id="path-1"></path>
+        <filter x="-1.7%" y="-1.7%" width="103.3%" height="106.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.4 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shop_call">
+            <g>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill-opacity="0.600000024" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill-opacity="0.100000001" fill="#000000" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

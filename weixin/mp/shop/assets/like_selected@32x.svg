@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="23px" viewBox="0 0 25 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>like_selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.27246669,20.962604 C0.569981252,20.962604 0,20.4126963 0,19.7350342 L0,9.36009293 C0,8.6823279 0.569981252,8.13252315 1.27246669,8.13252315 C1.97497878,8.13252315 2.54488007,8.6823279 2.54488007,9.36009293 L2.54488007,19.7350599 C2.54485339,20.4126963 1.97495212,20.962604 1.27246669,20.962604 Z" id="path-1"></path>
+        <filter x="-19.6%" y="-3.9%" width="139.3%" height="107.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.80986926   0 0 0 0 0.334511216   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M17.8474707,7.03336985 C17.7478149,7.30706584 17.6319322,7.59015914 17.4972392,7.87990896 L18.4129637,7.87990896 L19.5367105,7.87990896 C19.9633633,7.87990896 22.0856963,7.96465852 23.2901246,9.62695883 C24.2345302,10.9296072 24.2784139,12.7389525 23.4210558,15.0038364 L21.760088,19.477636 C21.5223536,20.3694997 20.254046,22.2523804 17.3870234,22.2523804 C17.172404,22.2523804 16.9462937,22.2427351 16.708586,22.2203839 L6.18628787,20.6284296 C5.56757067,20.5357581 5.11111111,20.0210363 5.11111111,19.4168838 L5.11111111,9.10747874 C5.11111111,8.51292004 5.5525873,7.96949402 6.15986703,7.86391072 C6.91620729,7.73281253 10.7052403,6.91129475 10.968649,3.5131845 C10.9653164,1.61752067 12.6419875,0 14.7022542,0 C16.7633207,0 18.4407649,1.61752065 18.4407649,3.60590744 C18.4447512,3.62624065 18.5341007,4.83652758 18.0229355,6.50907562 L17.8474707,7.03336985 Z" id="path-3"></path>
+        <filter x="-2.6%" y="-2.2%" width="105.3%" height="104.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.80986926   0 0 0 0 0.334511216   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="nearby_shop-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04_店铺详情" transform="translate(-634.000000, -4848.000000)">
+            <g id="like_selected" transform="translate(634.000000, 4848.000000)">
+                <g transform="translate(0.000000, 0.729167)" id="Shape">
+                    <g>
+                        <use fill="#FF7819" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <g fill-rule="nonzero">
+                        <use fill="#FF7819" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
