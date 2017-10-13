@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>add</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="my_order" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-244.000000, -21.000000)" fill="#FFFFFF">
+            <path d="M257,32 L257,24 L255,24 L255,32 L247,32 L247,34 L255,34 L255,42 L257,42 L257,34 L265,34 L265,32 L257,32 Z" id="add"></path>
+        </g>
+    </g>
+</svg>
